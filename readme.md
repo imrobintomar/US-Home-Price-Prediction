@@ -8,7 +8,7 @@ This project aims to develop a **machine learning model** to predict home prices
 📁 US_Home_Price_Prediction  
  ├── 📜 US_Home_Price_Prediction.ipynb  # Jupyter Notebook with the full analysis  
  ├── 📄 README.md  # Project documentation  
- ├── 📂 data/  # (Optional) Folder for datasets  
+ ├── 📂 data/  #  Folder for datasets  
  
  
 ```
